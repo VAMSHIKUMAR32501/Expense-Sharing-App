@@ -73,7 +73,7 @@ Expense Sharing App/
 - Backend runs on:
 ```
 
-[http://localhost:8080](http://localhost:8080)
+http://localhost:8080
 
 ````
 
